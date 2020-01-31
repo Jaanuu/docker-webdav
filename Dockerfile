@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20170410
+FROM debian:buster
 
 ARG http_proxy
 ARG https_proxy
